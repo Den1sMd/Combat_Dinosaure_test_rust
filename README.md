@@ -1,6 +1,6 @@
 ======================================================
            Bienvenue dans La jungle 
-======================================================
+
  Un jeu de combat en mode texte écrit en Rust.
  
  Créez votre dinosaure sur-mesure.
